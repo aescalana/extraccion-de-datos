@@ -1,0 +1,4 @@
+# Ignorar la carpeta que contiene el ambiente virtual
+selenv
+# Ignorar la carpeta local con archivos de prueba
+archive
